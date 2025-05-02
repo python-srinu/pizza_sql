@@ -2,9 +2,8 @@
 
 Welcome to the **Pizza Sales SQL Project**! This repository provides a sample pizza sales database to help you practice and master SQL skills at beginner, intermediate, and advanced levels.
 
----
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 pizza_sales.zip

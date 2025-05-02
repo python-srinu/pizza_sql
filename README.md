@@ -16,6 +16,9 @@ pizza_sales.zip
 Pizza_Questions.txt
 Pizza_Answers.sql.txt
 
+
+---
+
 ## 🧾 Database Tables
 
 The dataset contains the following CSV files representing key tables in a pizza ordering system:
